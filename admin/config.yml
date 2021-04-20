@@ -1,0 +1,15 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: "images"
+public_folder: "/images"
+collections:
+  - name: "students"
+    label: "Students"
+    folder: "students"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Thumbnail Image", name: "thumb_image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
