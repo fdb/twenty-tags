@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Rubik", sans-serif;
+}
+
+header {
+  height: 50px;
+  line-height: 50px;
+  display: flex;
+  align-items: center;
+  background-color: #335;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+header a {
+  color: inherit;
+  text-decoration: none;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.thumb {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+.grid {
+  display: grid;
+  grid-auto-flow: row;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 20px;
+}
