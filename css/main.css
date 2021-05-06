@@ -9,6 +9,8 @@ img {
 body {
   margin: 0;
   font-family: "Rubik", sans-serif;
+  color: aliceblue;
+  background-color: rgb(209, 108, 36);
 }
 
 header {
@@ -17,7 +19,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #335;
+  background-color: #050400;
   color: white;
   padding-left: 20px;
   padding-right: 20px;
@@ -29,14 +31,18 @@ header a {
 }
 
 h1 {
-  font-family: "Orelega One", cursive;
-  font-size: 64px;
+  font-family: comic "Gill Sans", cursive;
+  font-size: 5vw;
+  color: aliceblue;
+  margin-bottom: 54px;
 }
 
 main {
   max-width: 990px;
   margin: 0 auto;
   margin-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .thumb {
@@ -50,8 +56,8 @@ main {
 .grid {
   display: grid;
   grid-auto-flow: row;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 100px;
 }
 
 footer {
@@ -59,5 +65,5 @@ footer {
   margin-bottom: 20px;
   text-align: center;
   font-size: 11px;
-  color: gray;
+  color: #f8f2eb;
 }
