@@ -17,10 +17,11 @@ header {
   height: 80px;
   line-height: 80px;
   display: flex;
+  font-size: larger;
   justify-content: space-between;
   align-items: center;
   background-color: #f05c22;
-  color: white;
+  color: rgb(22, 21, 21);
   padding-left: 20px;
   padding-right: 20px;
 }
