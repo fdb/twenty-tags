@@ -9,17 +9,17 @@ img {
 body {
   margin: 0;
   font-family: "Rubik", sans-serif;
-  color: aliceblue;
-  background-color: rgb(209, 108, 36);
+  color: rgb(28, 29, 31);
+  background-color: rgb(236, 227, 220);
 }
 
 header {
-  height: 50px;
-  line-height: 50px;
+  height: 80px;
+  line-height: 80px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #050400;
+  background-color: #f05c22;
   color: white;
   padding-left: 20px;
   padding-right: 20px;
@@ -31,10 +31,10 @@ header a {
 }
 
 h1 {
-  font-family: comic "Gill Sans", cursive;
-  font-size: 5vw;
-  color: aliceblue;
-  margin-bottom: 54px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 50px;
+  color: rgb(0, 0, 0);
+  margin-bottom: 5px;
 }
 
 main {
