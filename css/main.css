@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Waste of Time";
+  src: url(/fonts/waste-of-time.woff);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -8,7 +13,7 @@ img {
 
 body {
   margin: 0;
-  font-family: "Rubik", sans-serif;
+  font-family: "Work Sans", sans-serif;
   color: rgb(28, 29, 31);
   background-color: rgb(252, 252, 252);
 }
@@ -17,7 +22,8 @@ header {
   height: 80px;
   line-height: 80px;
   display: flex;
-  font-size: larger;
+  font-family: "Waste of Time", sans-serif;
+  font-size: 48px;
   justify-content: space-between;
   align-items: center;
   background-color: #f05c22;
@@ -32,7 +38,7 @@ header a {
 }
 
 h1 {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "Waste of Time", sans-serif;
   font-size: 50px;
   color: rgb(0, 0, 0);
   margin-bottom: 5px;
