@@ -23,7 +23,7 @@ header {
   line-height: 80px;
   display: flex;
   font-family: "Waste of Time", sans-serif;
-  font-size: 48px;
+  font-size: 24px;
   justify-content: space-between;
   align-items: center;
   background-color: #f05c22;
@@ -73,4 +73,28 @@ footer {
   text-align: center;
   font-size: 11px;
   color: #f8f2eb;
+}
+
+.studenten {
+  display: flex;
+}
+
+.zijbalk {
+  display: none;
+  width: 200px;
+  background-color: #ede8e8;
+  border: 2px solid #ff6841;
+  font-size: 11px;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+@media (min-width: 768px) {
+  header {
+    font-size: 48px;
+  }
+
+  .zijbalk {
+    display: block;
+  }
 }
