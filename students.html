@@ -29,8 +29,6 @@ layout: page
     </p>
   </div>
   <div class="page">
-    <h1>klein gevaarlijk afval</h1>
-    <p>Bachelor exposition</p>
     <div class="grid">
       {% for student in collections.students %}
       <a href="{{ student.url }}" class="thumb">
@@ -38,7 +36,6 @@ layout: page
           src="{{ student.data.thumb_image }}"
           alt="{{ student.data.title }}"
         />
-        <span>{{ student.data.title }}</span>
       </a>
       {% endfor %}
     </div>
