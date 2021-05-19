@@ -1,6 +1,6 @@
 ---
 title: Orphea Aerts
-thumb_image: /images/i01_website_tn_orphea3.png
+thumb_image: /images/website_tn_oprhea2.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum libero felis. Nullam lacinia erat a augue elementum dapibus. Ut eget justo nisl. Quisque condimentum tellus tellus, sed vestibulum tellus aliquam blandit. Etiam scelerisque porttitor libero id venenatis. Pellentesque consectetur quam diam, sit amet placerat nisl congue vel. Donec vel justo et turpis vulputate vehicula quis quis metus. Maecenas eget nibh lacus. Etiam luctus justo sit amet viverra gravida. Morbi diam metus, dignissim tempus erat nec, condimentum vehicula massa.
