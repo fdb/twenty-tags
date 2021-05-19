@@ -1,6 +1,6 @@
 ---
 title: Emma Van Noten
-thumb_image: /images/i01_website_tn_orphea3.png
+thumb_image: /images/i01_website_tn_emma.jpg
 ---
 
 
