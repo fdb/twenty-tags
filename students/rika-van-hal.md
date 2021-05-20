@@ -1,6 +1,6 @@
 ---
 title: Rika Van Hal
-thumb_image: /images/website_tn_oprhea2.jpg
+thumb_image: /images/i01_website_tn_orphea3.png
 ---
 **Cras quis pharetra diam.** Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque purus mauris, venenatis eu nisl sed, semper tincidunt nulla. Nulla faucibus maximus fermentum. Curabitur volutpat massa quis mauris ornare viverra. Curabitur malesuada enim at sem hendrerit, nec facilisis urna accumsan. Vestibulum vestibul
 
