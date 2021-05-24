@@ -1,6 +1,6 @@
 ---
 title: Inez Pittoors
-thumb_image: /images/monotype_1_detail_verborgen_tekst.jpg
+thumb_image: /images/op-maat-gemaakte-afmetingen-600x600-px.jpeg
 ---
 <!--StartFragment-->
 
