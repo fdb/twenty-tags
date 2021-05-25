@@ -1,6 +1,6 @@
 ---
 title: Luciana Wolfarth
-thumb_image: /images/img_2116.jpg
+thumb_image: /images/img_2150.jpg
 ---
 Luciana Wolfarth (° 1998 Porto Alegre, Brazil) Based in Antwerp
 
