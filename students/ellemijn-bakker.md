@@ -1,6 +1,6 @@
 ---
 title: Ellemijn Bakker
-thumb_image: /images/191459783_469823370975005_5117357974262877983_n.jpg
+thumb_image: /images/192261270_290203102804800_8898182418384549854_n.jpg
 ---
 Ellemijn Bakker is a 21 year old painting student, who often works around themes such as mental healt, psychological disorders and elements used in therapy. 
 
