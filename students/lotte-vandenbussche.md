@@ -2,13 +2,13 @@
 title: Lotte Vandenbussche
 thumb_image: /images/site.jpg
 ---
-/<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ thumb_image: /images/site.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="276">
@@ -307,9 +307,9 @@ thumb_image: /images/site.jpg
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
 table.MsoNormalTable
@@ -331,16 +331,14 @@ table.MsoNormalTable
 	mso-hansi-theme-font:minor-latin;
 	mso-ansi-language:EN-GB;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-Ik ben Lotte en ik hou van lachen, dansen, concertjes, musea en theater maar vooral ook van schilderen.
+ik ben Lotte Vandenbussche, 22 jaar en ik hou van lachen, dansen, concertjes, musea en theater maar vooral ook van schilderen.
 
 Er zijn twee hoofdzaken die erg belangrijk zijn voor mij tijdens het schilderen, en die ik graag zou delen aan de hand van mijn werk. In de eerste plaats mijn inspiratiebron, de mens. Wat ik vooral heel boeiend vind hieraan is de dualiteit tussen het groepsgevoel en zijn individualiteit. Een ander persoon schilderen is ook mijn manier om me te verplaatsen in andere mensen. Ik probeer ook te schilderen onder verschillende emoties, om zo mezelf en anderen beter te begrijpen.
 
 Mijn andere boodschap is de kracht van imperfectie tonen. Er is geen correcte manier van schilderen, ook niet voor mijzelf specifiek. Dat betekent dat het experiment altijd het meest belangrijke aspect in het creëren van werk gaat zijn. Tenzij ik een reeks maak, is mijn aanpak en opbouw ook bij elk werk anders. Op technisch vlak, probeer ik toch altijd iets te doen wat ik nog niet gedaan heb, dit kan een klein detail zijn dat tot groter resultaat leidt, of niet.  Ik probeer altijd mijn fouten en toevalligheden te omarmen.
-
-                                                                                                        
 
 <!--EndFragment-->
