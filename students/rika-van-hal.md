@@ -1,6 +1,6 @@
 ---
 title: Rika Van Hal
-thumb_image: /images/detail-packagingbox2.jpg
+thumb_image: /images/600x600px.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
