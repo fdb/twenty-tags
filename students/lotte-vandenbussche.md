@@ -684,4 +684,6 @@ Wat ik graag zou bereiken met mijn werk is dat er bij de toeschouwer, zonder eni
 
 <!--EndFragment-->
 
+![](/images/lotte-in-zes.jpg)
+
 <!--EndFragment-->
