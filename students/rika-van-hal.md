@@ -2,13 +2,13 @@
 title: Rika Van Hal
 thumb_image: /images/600x600px.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -48,9 +48,9 @@ thumb_image: /images/600x600px.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -629,9 +629,9 @@ thumb_image: /images/600x600px.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -654,11 +654,19 @@ thumb_image: /images/600x600px.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 Rika Van Hal is a third-year student of studio printmaking. She is inspired by different promotion strategies. Which esthetic choices are made in this, and why? These questions are the motive through her artistic practice. She researches to what extent the marketing world plays on us and take this as the starting point for her spatial and graphic work. She uses, for example, packaging or the contents of the container of consumed products within her work. She preserves the beauty of the processed product, such as a chewed chewing gum. Through this formal snapshot she tries to draw attention to the human residue, which creates an alienation in which attraction and repulsion are very present.
+
+**contact**
+
+Tel: 0472344639
+
+E-mail: vanhalrika3@gmail.com
+
+Instagram: rikavanhal
 
 <!--EndFragment-->
 
